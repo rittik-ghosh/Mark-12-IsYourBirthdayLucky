@@ -9,6 +9,9 @@ body{
     background-repeat: no-repeat; 
     background-size: cover; 
 }
+h5{
+    font-size: 0.8rem;
+}
 #main-container{
     margin: auto;
     text-align: center;
@@ -32,6 +35,13 @@ h1 #text-margin{
 
 #first-heading{
     opacity: 1;
+}
+
+#opMsg{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: red;
+    
 }
 .setMargin{
     padding:12px;
